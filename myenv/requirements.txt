@@ -1,0 +1,4 @@
+defusedxml==0.7.1
+odfpy==1.4.1
+PyMuPDF==1.25.3
+tqdm==4.67.1
